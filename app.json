@@ -1,0 +1,16 @@
+{
+  "name": "ChatWithEncryptedMessage",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
